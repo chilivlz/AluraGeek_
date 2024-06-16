@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "name": "Darth Vader",
+      "price": "400",
+      "image": "img/image 2.svg",
+      "id": "1"
+    },
+    {
+      "id": "169c",
+      "name": "Vaso Starwars",
+      "price": "40",
+      "image": "https://i.ebayimg.com/thumbs/images/g/txkAAOSw5w1lBE~t/s-l1200.jpg"
+    },
+    {
+      "id": "747f",
+      "name": "Vaso Starwars",
+      "price": "50",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoJcAz881MyVMiq1h0dDUBq2U22bzUd-7OLA&s"
+    },
+    {
+      "id": "371e",
+      "name": "hola",
+      "price": "45",
+      "image": "https://imprimetresde.com/wp-content/uploads/2014/03/f08c340f90c2fa20b93e20ba1ccaa5999b90b164.jpg"
+    },
+    {
+      "id": "e059",
+      "name": "harry potter",
+      "price": "30",
+      "image": "https://exitocol.vtexassets.com/arquivos/ids/17097216/mug-taza-vaso-harry-potter-casa-slytherin-harry-tureloj.jpg?v=638151178547870000"
+    },
+    {
+      "id": "dcf3",
+      "name": "Starwars Mug",
+      "price": "15",
+      "image": "https://m.media-amazon.com/images/I/81tqZh-JIzL.jpg"
+    }
+  ]
+}
